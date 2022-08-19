@@ -2,60 +2,61 @@
 Softwares required to deploy a new computer or server.
 # Windows
 ## Pre-process
-1. 卸载所有 OEM 预装软件。
-2. 所有软件能从 Windows Store 安装就从这里安装。
-3. 如果电脑有分区，把 文档， 视频， 图片等修改到其他地方。
-4. 图吧工具箱: CPU-Z, GPU-Z, AIDA64, DisplayX
+1. Uninstall any OEM preinstalled software.
+2. All software can be installed from Windows Store from here.
+3. If the computer has a partition, modify the documents, videos, pictures, etc. to other places.
+4. Image Bar Toolbox: CPU-Z, GPU-Z, AIDA64, DisplayX
 5. no@thanks.com
-## 系统调教
-1. 个性化
-## 软件分类
+## System tuning
+1. Personalization
+## Software classification
 ### Office
-最新学生家庭版即可，更多安装专业版或365.
-### PDF
+The latest student home version is enough, more install the professional version or 365.
+###PDF
 1. Sumatra PDF
 2. Adobe Acrobat DC
 ### TODO
-1. 微软Todo
+1. Microsoft Todo
 2. Outlook
-### 文本
-1. VScode
+### text
+1. VSCode
 2. mubu
-3. yuque
-### 词典
+3. Yuque
+### Dictionary
 1. Eudic
-### 下载器
+### Downloader
 1. IDM
-### 卸载
+### Uninstall
 1. Geek
-### 云盘
-1. 百度网盘
+### Cloud Disk
+1. Baidu Netdisk
 ### VPN
 1. Clash
-2. 云翼网络
+2. Cloud Wing Network
 ### Soicial
 1. Wechat
 2. Telegram
 3. Slack
-### 音乐视频
+### Music Videos
 1. foobar2000
 2. potplayer
 ### Unzip
 1. Rar
-### 图片查看
+### Picture view
 1. ImageGlass
 ### File search
-1. everthing（不推荐）
-### 杀毒
-1. Huorong（不推荐）
-## 浏览管理
+1. everthing (not recommended)
+### Antivirus
+1. Huorong (not recommended)
+## Browse management
 1. Chrome
-  - 暴力猴
-    - 一些脚本
+  - Violent Monkey
+    - some scripts
   - Video speed controller
-  - 小舒同学
-  - 书签
-2. FireFox
-## 快捷键
-
-
+  - Xiaoshu classmate
+  - bookmarks
+2. Firefox
+## development
+1. Python
+2. R
+## hot key
