@@ -60,3 +60,9 @@ The latest student home version is enough, more install the professional version
 1. Python
 2. R
 ## hot key
+
+# Linux
+
+# Mac
+
+# Android
