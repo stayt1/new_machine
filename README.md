@@ -66,3 +66,9 @@ The latest student home version is enough, more install the professional version
 # Mac
 
 # Android
+
+# code
+1. Powershell 7
+2. oh-my-posh/zsh
+3. git
+
