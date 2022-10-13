@@ -13,7 +13,7 @@ Softwares required to deploy a new computer or server.
 ### Office
 The latest student home version is enough, more install the professional version or 365.
 ###PDF
-1. Sumatra PDF
+1. Sumatra PDF(Exclusive)
 2. Adobe Acrobat DC
 ### TODO
 1. Microsoft Todo
