@@ -1,4 +1,4 @@
-# new_machine
+# New_machines
 Softwares required to deploy a new computer or server.
 # Windows
 ## Pre-process
@@ -61,7 +61,16 @@ The latest student home version is enough, more install the professional version
 2. R
 ## hot key
 
-# Linux
+# Ubuntu 22
+It is awesome to install the latest ubuntu release, which even support my wacom stylus. Therefore, I can wait to uninstall win11👌🤣.
+**Beautiful, intelligent**
+## Design
+1. Inkscape
+2. 
+
+## Code
+1. VScode
+
 
 # Mac
 
